@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fruit_juice_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# fruit_juice_app
+>>>>>>> 854db1f6a6779152085ca635a81115d414e38b40
